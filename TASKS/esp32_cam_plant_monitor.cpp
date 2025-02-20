@@ -1,7 +1,7 @@
 #include "esp_camera.h"
 #include <WiFi.h>
 
-const char* ssid = "Your_SSID";
+const char* ssid = "Your_swadesh";
 const char* password = "Your_PASSWORD";
 
 void startCameraServer(); // Function prototype
